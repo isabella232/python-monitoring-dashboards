@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/googleapis/python-monitoring-dashboards/compare/v1.0.0...v2.0.0) (2020-09-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* move API to python microgenerator (#26)
+
+### Features
+
+* add support for secondary aggregation and Monitoring Query Language ([#22](https://www.github.com/googleapis/python-monitoring-dashboards/issues/22)) ([8ed9094](https://www.github.com/googleapis/python-monitoring-dashboards/commit/8ed9094df80db87caa9852279be76d69783dc9c3))
+* move API to python microgenerator ([#26](https://www.github.com/googleapis/python-monitoring-dashboards/issues/26)) ([b5c1549](https://www.github.com/googleapis/python-monitoring-dashboards/commit/b5c15496bea5442524df67c56c0680f38cd8eb79))
+
 ## [1.0.0](https://www.github.com/googleapis/python-monitoring-dashboards/compare/v0.1.0...v1.0.0) (2020-05-19)
 
 
